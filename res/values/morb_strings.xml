@@ -19,4 +19,7 @@
     <!-- MorbiOS Maintainer -->
     <string name="morbios_maintainer">Maintainer</string>
 
+    <!-- Black theme for dark mode -->
+    <string name="black_bg_title">Pure black</string>
+    <string name="black_bg_summary">Pure black background for dark theme</string>
 </resources>
