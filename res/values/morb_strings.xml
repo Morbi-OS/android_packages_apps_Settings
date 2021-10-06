@@ -12,6 +12,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- About device screen, Release Version -->
     <string name="morbios_release_version">MorbiOS Version</string>
+
+    <!-- MorbiOS Maintainer -->
+    <string name="morbios_maintainer">Maintainer</string>
+
 </resources>
