@@ -86,4 +86,8 @@
     <string name="morbios_lab_title">MorbiLab</string>
     <string name="morbios_lab_footer">Warning: These features are experimental and may have risks. Use them with caution.</string>
     <string name="morbios_lab_summary">Experimental features</string>
+
+    <!-- Hidden apps -->
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hidden_apps_summary">Applications that should be hidden from launcher. Requires a launcher restart for changes to take effect</string>
 </resources>
