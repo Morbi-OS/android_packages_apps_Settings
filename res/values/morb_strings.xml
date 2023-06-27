@@ -46,4 +46,7 @@
     <string name="accent_background_summary">Choose a different accent color for background</string>
     <string name="bg_color_title">Background Color</string>
     <string name="bg_color_summary">Override default background accent color</string>
+
+    <!-- Maintainer -->
+    <string name="morbios_maintainer">Maintainer</string>
 </resources>
